@@ -4,6 +4,14 @@
 
 ## Table of Contents
 
+1. [Configuration File Name](#configuration-file-name)
+1. [End of Line](#end-of-line)
+1. [Print Width](#print-width)
+1. [Prose Wrap](#prose-wrap)
+1. [Single Quotes](#single-quotes)
+1. [Resources](#resources)
+1. [Amendments](#amendments)
+
 ## Configuration File Name
 
 The Prettier configuration file should be `.prettierrc` with a `.js` extension.
