@@ -142,3 +142,25 @@ module.exports = {
 }
 ```
 <!-- prettier-ignore-end -->
+
+## Resources
+
+### Prettier
+
+- [Project Homepage](https://daringfireball.net/projects/markdown/)
+- [Rationale](https://prettier.io/docs/en/rationale.html)
+
+### Tools
+
+- [Pre-Commit Hooks for Prettier](https://prettier.io/docs/en/precommit.html)
+- [Prettier for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Prettier CLI](https://prettier.io/docs/en/cli.html)
+
+### Configurations
+
+- [Kienle Holdings `.prettierrc.js`](https://github.com/kienleholdings/prettier/blob/master/.prettierrc.js)
+
+## Amendments
+
+This guide is subject to change. Do you see something that can be improved on? Go ahead and give it
+a fork and shoot us over a PR. See an issue? Don't forget to log it!
