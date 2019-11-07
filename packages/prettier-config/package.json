@@ -2,6 +2,7 @@
   "name": "@kienleholdings/prettier-config",
   "version": "0.1.0",
   "description": "Kienle Holdings Prettier Configuration File",
+  "private": false,
   "main": "index.js",
   "repository": {
     "type": "git",
