@@ -1,7 +1,7 @@
 {
   "name": "@kienleholdings/prettier",
   "version": "0.1.0",
-  "description": "A Bullshit-Free Approach to Prettiere",
+  "description": "A Bullshit-Free Approach to Prettier",
   "private": true,
   "scripts": {
     "lint": "markdownlint --ignore node_modules **/*.md && prettier --check **/*.md"
@@ -20,8 +20,10 @@
     "url": "https://github.com/kienleholdings/prettier/issues"
   },
   "homepage": "https://github.com/kienleholdings/prettier#readme",
-  "devDependencies": {
-    "markdownlint-cli": "^0.19.0",
-    "prettier": "^1.18.2"
+  "workspaces": [
+    "packages/*"
+  ],
+  "dependencies": {
+    "markdownlint-cli": "^0.19.0"
   }
 }

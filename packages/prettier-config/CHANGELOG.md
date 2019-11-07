@@ -9,20 +9,6 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Added
 
-- NPM package for configuration file
-
-### Changed
-
-- The documentation regarding the confuguration file and installation
-
-### Removed
-
-- N / A
-
-## [0.1.0] - 2019-11-04
-
-### Added
-
 - Initial Release
 
 ### Changed

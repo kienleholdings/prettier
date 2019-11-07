@@ -1,0 +1,26 @@
+{
+  "name": "@kienleholdings/prettier-config",
+  "version": "0.1.0",
+  "description": "Kienle Holdings Prettier Configuration File",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kienleholdings/prettier.git"
+  },
+  "keywords": [
+    "prettier",
+    "kienle"
+  ],
+  "author": "Kienle Holdings LLC <hello@kienle.tech> (https://www.kienle.dev)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kienleholdings/prettier/issues"
+  },
+  "homepage": "https://github.com/kienleholdings/prettier/tree/master/packages/prettier-config",
+  "devDependencies": {
+    "prettier": "^1.18.2"
+  },
+  "peerDependencies": {
+    "prettier": "^1.18.2"
+  }
+}

@@ -14,12 +14,13 @@
 
 ## Configuration File Name
 
-The Prettier configuration file should be `.prettierrc` with a `.js` extension.
+If you choose to extend our Prettier config, rather than use the `package.json` parameter, the
+Prettier configuration file should be `.prettierrc` with a `.js` extension.
 ([`Configuration File`](https://prettier.io/docs/en/configuration.html))
 
-> **Why?** We prefer prettier to be a `js` file so that in the future when we create a base config
-> file, your project can simple extend that file, rather than copy-pasting our config from GitHub
-> each time.
+> **Why?** In order to extend the Prettier config, you need to be working with a `js` file rather
+> than a `json` file. The fine needs to be named `.prettierrc` otherwise Prettier won't find it and
+> you may get unexpected behavior.
 
 <!-- prettier-ignore-start -->
 ```markdown
@@ -166,7 +167,7 @@ module.exports = {
 
 ### Configurations
 
-- [Kienle Holdings `.prettierrc.js`](https://github.com/kienleholdings/prettier/blob/master/.prettierrc.js)
+- [Kienle Holdings `prettier-config`](https://github.com/kienleholdings/prettier/tree/master/packages/prettier-config)
 
 ## Amendments
 
