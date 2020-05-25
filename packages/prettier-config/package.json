@@ -1,6 +1,6 @@
 {
   "name": "@kienleholdings/prettier-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Kienle Holdings Prettier Configuration File",
   "private": false,
   "main": "index.js",
@@ -19,9 +19,9 @@
   },
   "homepage": "https://github.com/kienleholdings/prettier/tree/master/packages/prettier-config",
   "devDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.0.5"
   },
   "peerDependencies": {
-    "prettier": "^1.18.2"
+    "prettier": "^2.0.5"
   }
 }

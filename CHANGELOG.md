@@ -13,7 +13,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ### Changed
 
-- The documentation regarding the confuguration file and installation
+- The documentation regarding the configuration file and installation
 
 ### Removed
 
