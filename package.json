@@ -1,6 +1,6 @@
 {
   "name": "@kienleholdings/prettier",
-  "version": "0.1.0",
+  "version": "0.2.1",
   "description": "A Bullshit-Free Approach to Prettier",
   "private": true,
   "scripts": {

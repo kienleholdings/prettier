@@ -14,7 +14,7 @@ adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 ### Changed
 
 - Updated all direct dependencies to @latest
-- Moved `markdownlint-cli` to dev dependencies
+- Updated package versions in readme
 
 ### Removed
 

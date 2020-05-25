@@ -4,8 +4,8 @@
 
 ## Version
 
-- Package Version: `0.1.0`
-- Style Guide Version: `0.2.0`
+- Package Version: `0.1.1`
+- Style Guide Version: `0.2.1`
 
 ## Installation
 
