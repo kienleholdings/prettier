@@ -4,8 +4,8 @@
 
 ## Version
 
-- Package Version: `0.1.1`
-- Style Guide Version: `0.2.1`
+- Package Version: `0.1.2`
+- Prettier Version: `2.1.2`
 
 ## Installation
 
